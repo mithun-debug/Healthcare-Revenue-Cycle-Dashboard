@@ -21,3 +21,11 @@ I built a Healthcare Revenue Cycle dashboard in Power BI to analyze how efficien
 - Performed denial analysis to identify key contributors to revenue leakage
 - Implemented drill-through and slicers for detailed claim-level exploration
   
+## Project Insight
+- Collection rate was around 71%, indicating moderate efficiency
+- Significant gap between charges and payments shows pending revenue
+- Certain insurance companies had higher denial rates
+- Payment delays highlighted slow processing by specific payers
+
+## Final Conclusion
+The dashboard reveals that while revenue generation is strong, collection efficiency can be improved by reducing denials and payment delays. Overall, improving claim approval rates and reducing processing delays can significantly enhance revenue realization.
