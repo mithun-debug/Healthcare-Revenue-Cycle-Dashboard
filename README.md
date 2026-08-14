@@ -17,7 +17,6 @@ I built a Healthcare Revenue Cycle dashboard in Power BI to analyze how efficien
 - Which insurance companies contribute most to revenue?
 - Which insurance companies have the highest denied claims?
 - What is the denial rate and how significant is it?
- <a href="https://github.com/mithun-debug/Healthcare-Revenue-Cycle-Dashboard/blob/main/Healthcare%20Revenue.pbix">View Dashboard</a>
 
 ## Process
 - Designed KPI metrics including Collection Rate, Denial Rate, Total Charges, and Total Payments
