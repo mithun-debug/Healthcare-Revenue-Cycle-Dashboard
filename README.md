@@ -6,7 +6,7 @@ I built a Healthcare Revenue Cycle dashboard in Power BI to analyze how efficien
 
 ## 📊 Dashboard Preview
 
-![Healthcare-Revenue-Cycle-Dashboard](Screenshots/Shopify_Dashboard.png)
+![Healthcare-Revenue-Cycle-Dashboard](https://github.com/mithun-debug/Healthcare-Revenue-Cycle-Dashboard/blob/main/Dashboard_Screenshot1.png)
 
 ## Questions (KPIs)
 - What is the total revenue generated?
