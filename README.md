@@ -4,6 +4,10 @@ I built a Healthcare Revenue Cycle dashboard in Power BI to analyze how efficien
 ## Dataset Used
 - <a href="https://github.com/mithun-debug/Healthcare-Revenue-Cycle-Dashboard/blob/main/medical-billing.xlsx">Dataset</a>
 
+## 📊 Dashboard Preview
+
+![Healthcare-Revenue-Cycle-Dashboard](Screenshots/Shopify_Dashboard.png)
+
 ## Questions (KPIs)
 - What is the total revenue generated?
 - How much revenue is actually collected?
